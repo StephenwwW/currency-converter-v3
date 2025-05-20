@@ -19,10 +19,10 @@ _▲ 程式主畫面：可產生相對應匯率_
    ```bash
    pip install requests
    ```
-3. 下載 `匯率轉換器v3.py` 檔案
+3. 下載 `currency_converter_v3.py` 檔案
 
 ## 使用說明
-1. 執行 `匯率轉換器v3.py`
+1. 執行 `currency_converter_v3.py`
 2. 輸入金額，選擇來源幣別，即可自動換算所有目標幣別
 3. 亦可在目標幣別欄位輸入金額，反向換算來源幣別
 
