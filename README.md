@@ -8,6 +8,11 @@
 - 支援雙向換算（A→B、B→A）
 - 介面簡潔，操作直覺
 
+## 預覽畫面 | Screenshot
+
+![匯率換算器預覽圖](currency-converter-v3/images/screenshot.png)  
+_▲ 程式主畫面：可產生相對應匯率_
+
 ## 安裝方式
 1. 安裝 Python 3.7 以上版本
 2. 安裝必要套件：
